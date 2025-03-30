@@ -14,6 +14,8 @@ It's commonly referenced in job ads etc, so it's useful to know what it is. Goog
     - https://hackingthe.cloud/
 - Detailed reports of "Real Intrusions by Real Attackers"
     - https://thedfirreport.com/
+- Simulated intrusion by DFIR Report, good resource to practice investigation and reporting, even if you don't apply for the job!
+    - https://github.com/The-DFIR-Report/DFIR-Artifacts
 
 *Incident Response and Detection Engineering*
 - The specialisation of detection engineering defined. The role overview diagram is a good summary of how many Security Operations functions are organised.
